@@ -5,13 +5,14 @@ Este proyecto es con el fin de que los estudiantes de ***azul school** practique
 
 >Si estudias hoy no te preocuparas por el tema de mañana.
 
-
-###Listas enumeradas
 [//]:# (Lista enumeradas)
+###Listas enumeradas
+
 1. index.html
 2. information.txt
 
-###Listas sin enumerar
 [//]:# (Lista sin enumeradar)
+###Listas sin enumerar
+
 *index.html
 *information.txt
